@@ -597,6 +597,12 @@
     width: 100%;
     min-height: 264px;
 }
+.footer_bg{
+    background-image: url(../images/footer_bg.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
 
 .bottom-2 {
     bottom: -2%;
