@@ -269,27 +269,27 @@
 }
 
 .bg-hero {
-    background-image: url(../images/Hero-bg.png);
+    background-image: url(../images/Hero-bg.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .bg_4 {
-    background-image: url(../images/Slice1.png);
+    background-image: url(../images/Slice1.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .bg_2 {
-    background-image: url(../images/bg_corona.png);
+    background-image: url(../images/bg_corona.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .bg_3 {
-    background-image: url(../images/bg_3.png);
+    background-image: url(../images/bg_3.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -537,59 +537,59 @@
 }
 
 .bg_02 {
-    background-image: url(../images/02.png);
+    background-image: url(../images/02.webp);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .bg_01 {
-    background-image: url(../images/01.png);
+    background-image: url(../images/01.webp);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .bg_03 {
-    background-image: url(../images/03.png);
+    background-image: url(../images/03.webp);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .bg_hour {
-    background-image: url(../images/under-hour\ bg.png);
+    background-image: url(../images/under-hour\ bg.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .bg_history {
-    background-image: url(../images/bg_history.png);
+    background-image: url(../images/bg_history.webp);
     background-repeat: no-repeat;
     background-size: 200% 200%;
 }
 
 .bg_timeline_2 {
-    background-image: url(../images/timeline_2.png);
+    background-image: url(../images/timeline_2.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
 }
 
 .bg_accord {
-    background-image: url(../images/ACC_BG.png);
+    background-image: url(../images/ACC_BG.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .bg_timeline1 {
-    background-image: url(../images/timeline_1.png);
+    background-image: url(../images/timeline_1.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .bg_round {
-    background-image: url(../images/round-img.png);
+    background-image: url(../images/round-img.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -723,6 +723,10 @@
     border-radius: 16px;
     background: linear-gradient(white, white) padding-box, linear-gradient(146.26deg, rgba(238, 221, 191, 0.32) 6.74%, rgba(199, 138, 17, 0.32) 110.03%) border-box;
     border-radius: 5px;
+}
+.grant_colorspot{
+    right: 0;
+    bottom: -1%;
 }
 
 .accordion-para {
@@ -1080,7 +1084,7 @@
     }
 
     .bg-hero {
-        background-image: url(../images/Hero-bg.png);
+        background-image: url(../images/Hero-bg.webp);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -1174,7 +1178,7 @@
     }
 
     .bg_history {
-        background-image: url(../images/bg_history.png);
+        background-image: url(../images/bg_history.webp);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
